@@ -1,0 +1,9 @@
+/bin/
+/test/
+/.gitignore
+/.travis.yml
+/package-bak.json
+/temp/
+/.github/
+*.log
+/examples
