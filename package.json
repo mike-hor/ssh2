@@ -1,11 +1,11 @@
 { "name": "@electerm/ssh2",
-  "version": "0.8.8",
+  "version": "0.8.9",
   "author": "Brian White <mscdex@mscdex.net>",
   "description": "SSH2 client and server modules written in pure JavaScript for node.js",
   "main": "./lib/client",
   "engines": { "node": ">=5.2.0" },
   "dependencies": {
-    "ssh2-streams": "~0.4.5"
+    "ssh2-streams": "~0.4.6"
   },
   "scripts": {
     "test": "node test/test.js"
